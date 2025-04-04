@@ -133,7 +133,9 @@ def get_response(user_input):
 
 
 
+# Testing
 
+"""
 while True:
     user_input = input("You: ").lower()
     if user_input in ['exit', '-1']:
@@ -142,3 +144,4 @@ while True:
 
     response = get_response(user_input)
     print(response)
+"""
